@@ -5,7 +5,7 @@ setup(
     version="0.1",
     packages=[
       "request_validate"
-    ]
+    ],
     url="",
     license="",
     author="ShopUp Tech",
