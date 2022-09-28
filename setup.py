@@ -11,4 +11,4 @@ setup(
     author="ShopUp Tech",
     author_email="",
     description=""
-  }
+)
