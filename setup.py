@@ -4,7 +4,7 @@ setup(
     name="risk-protobuf",
     version="0.1",
     packages=[
-      "request_validate"
+      "api.python.risk_management_service"
     ],
     url="",
     license="",
